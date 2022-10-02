@@ -1,4 +1,4 @@
-# chatbot
+# Projet chatbot en JS
 
 + Concevoir un chatbot de discussion en Python ou JavaScript sans utiliser d’objets
 + Dans le cadre de Python, le script devra tenir l’utilisateur jusqu’à que celui-ci décide d'interrompre la discussion. 
